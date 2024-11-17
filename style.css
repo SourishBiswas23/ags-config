@@ -1,0 +1,22 @@
+* {
+  font-family: "Arimo Nerd Font Propo";
+  font-size: 15px;
+  font-weight: normal;
+  padding: 0;
+  margin: 0;
+}
+
+.launcher {
+}
+
+.cpu-progress {
+  background-color: gainsboro;
+}
+
+.cpu-reading {
+  background-color: gold;
+}
+
+.Bar {
+  background-color: #000000;
+}
